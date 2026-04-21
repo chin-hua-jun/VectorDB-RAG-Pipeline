@@ -20,3 +20,5 @@ coverage.xml
 testing/
 data/
 chroma_db/
+*.ipynb
+.ipynb_checkpoints/
