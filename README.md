@@ -103,11 +103,3 @@ python -m embedding.pipeline
 This loads cached docs, cleans and chunks them, generates embeddings, and writes the ChromaDB vector store to `./chroma_db`.
 
 To re-crawl from scratch, call `load_claude_docs()` + `save_docs()` from `embedding/pipeline.py` first.
-
-### Explore interactively
-
-```bash
-python -m jupyter lab
-```
-
-Open `VectorDB.ipynb` to experiment with the pipeline step by step.
