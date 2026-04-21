@@ -1,6 +1,7 @@
 # VectorDB RAG Pipeline
 
 > Personal exploration project for learning vector databases, embeddings, and RAG (Retrieval-Augmented Generation).
+> Pipeline works for any documents, for this example I used Claude Code documents as it's something I could see myself using a RAG-augmented local LLM for checking questions.
 
 ## Current Progress
 
